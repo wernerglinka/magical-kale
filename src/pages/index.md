@@ -10,6 +10,8 @@ sections:
     This section can contain a subtitle or tagline. The recommended length is one to three sentences, but can be changed as you prefer.
 
     Aenean lacinia bibendum nulla sed consectetur. Curabitur blandit tempus porttitor. Cras justo odio, dapibus ac facilisis in, egestas eget quam. Vestibulum id ligula porta felis euismod semper. Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit. Etiam porta sem malesuada magna mollis euismod. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+
+    And a **bit** more...
 - type: portfolioblock
   template: portfolioblock
   title: Recent Work
